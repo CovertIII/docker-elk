@@ -1,0 +1,1 @@
+{"rsync":{"/src":{"type":"rsync","rsync__exclude":[".git/"],"guestpath":"/src","hostpath":"/Users/bill/Development/docker-elk","disabled":false,"exclude":[".git/"],"owner":"vagrant","group":"vagrant"}}}
